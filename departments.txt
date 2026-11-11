@@ -1,3 +1,4 @@
 IT Department
 HR Department
 Operations Department
+Security Department
